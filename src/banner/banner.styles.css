@@ -1,0 +1,10 @@
+.banner-container{
+    display: flex;
+
+}
+
+.mapbackground{
+    background-image: url(../assets/map.png);
+    width: 200px;
+    margin-top: 2%;
+}

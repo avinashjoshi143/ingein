@@ -1,0 +1,40 @@
+
+.header-container{
+    height: fit-content;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+    background-color: rgb(239, 247, 252);
+}
+
+.logo-container{
+    height: 100%;
+    width: 70px;
+    padding: 25px;
+}
+
+.option-container{
+    width: 50%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.optionLink{
+    padding: 10px 15px;
+    cursor: pointer;
+}
+
+.vertical-bar {
+    width: 2px;
+    background-color: rgb(195, 195, 195);
+    height: 20px;
+}
+
+.fa-icon{
+    margin:  0 5px;
+    border-radius: 50px;
+    border: 2px solid black;
+}
