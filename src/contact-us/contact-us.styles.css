@@ -1,0 +1,10 @@
+.form-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    margin-left: 35%;
+}
+
+.form-container h1{
+    margin-left: 15%;
+}
